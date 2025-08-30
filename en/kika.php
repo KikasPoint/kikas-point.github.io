@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
 <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=Windows-1250" />
+    <meta charset="UTF-8">
     <meta http-equiv="Content-Language" content="si" />
     <title>Kika's point | About Kika</title>
     
@@ -20,19 +20,19 @@
         	<div id="header_photo"><img src="../images/head/head_11.png" alt=""/></div>
             <div id="header_logo">
             	<div id="header_lang">
-                	<a href="../si/kika.php">slovensko</a> | 
+                	<a href="../si/kika.html">slovensko</a> | 
                     <a>english</a>
                 </div>
-				<a href="../index.php"><div id="header_link"></div></a>
+				<a href="../index.html"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
-            	<a href="../main.php?lang=en"><li>News</li></a>
-				<a href="point.php"><li>Kika's Point</li></a>
+            	<a href="../main.html?lang=en"><li>News</li></a>
+				<a href="point.html"><li>Kika's Point</li></a>
 				<li><h1>About Kika</h1></li>
-				<a href="puppies.php"><li>Puppies</li></a>
-				<a href="../gallery.php?lang=en"><li>Gallery</li></a>
-                <a href="links.php"><li>Links</li></a>
-                <a href="../contact.php?lang=en"><li>Contact</li></a>
+				<a href="puppies.html"><li>Puppies</li></a>
+				<a href="../gallery.html?lang=en"><li>Gallery</li></a>
+                <a href="links.html"><li>Links</li></a>
+                <a href="../contact.html?lang=en"><li>Contact</li></a>
             </div>
         </div>
         <div id="content">
@@ -46,7 +46,7 @@
 						DOB: 19.9.2006<br />
 						Sire: BIS Multi International Ch/ Aust Ch Ashlaren Caipiroska<br />
 						Dam: Dolce Vita Imperium Star<br />
-						Breeder: Paulina Wałkowska (Imperium Star kennel)
+						Breeder: Paulina WaĹ‚kowska (Imperium Star kennel)
 						</p>
 						
 					</div>
@@ -69,7 +69,7 @@
 								<ul><li>Junior Winner</li></ul>
 							</li>
 							<li class="event">CACIB Umag 2007 (Croatia): 
-								<ul><li>Junior class – excellent 2</li></ul>
+								<ul><li>Junior class â€“ excellent 2</li></ul>
 							</li>
 							<li class="event">CACIB Lendava 2007 (Slovenia): 
 								<ul><li>Junior Winner</li><li>Junior BOB</li><li>BOB (Best of breed)</li><li>Junior BOG1 (Best of group)</li></ul>
@@ -122,6 +122,6 @@
 </body>
 </html>
 <!-- www.000webhost.com Analytics Code -->
-<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
-<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<script type="text/javascript" src="http://analytics.hosting24.com/count.html"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.html" alt="web hosting" /></a></noscript>
 <!-- End Of Analytics Code -->

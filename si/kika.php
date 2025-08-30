@@ -21,18 +21,18 @@
             <div id="header_logo">
             	<div id="header_lang">
                 	<a>slovensko</a> | 
-                    <a href="../en/kika.php">english</a>
+                    <a href="../en/kika.html">english</a>
                 </div>
-				<a href="../index.php"><div id="header_link"></div></a>
+				<a href="../index.html"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
-            	<a href="../main.php"><li>Novice</li></a>
-				<a href="point.php"><li>Kika's Point</li></a>
+            	<a href="../main.html"><li>Novice</li></a>
+				<a href="point.html"><li>Kika's Point</li></a>
 				<li><h1>O Kiki</h1></li>
-				<a href="puppies.php"><li>MladiËi</li></a>
-				<a href="../gallery.php"><li>Galerija</li></a>
-                <a href="links.php"><li>Povezave</li></a>
-                <a href="../contact.php"><li>Kontakt</li></a>
+				<a href="puppies.html"><li>Mladiƒçi</li></a>
+				<a href="../gallery.html"><li>Galerija</li></a>
+                <a href="links.html"><li>Povezave</li></a>
+                <a href="../contact.html"><li>Kontakt</li></a>
             </div>
         </div>
         <div id="content">
@@ -41,10 +41,10 @@
             	<div id="about">
 					<div id="about_imp">
 	                	<p><h1>CHJ SLO Kika Aruba Imperium Star</h1><br />
-						Poleûena: 19.9.2006<br />
-						OËe: BIS Multi International Ch/ Aust Ch Ashlaren Caipiroska<br />
+						Pole≈æena: 19.9.2006<br />
+						Oƒçe: BIS Multi International Ch/ Aust Ch Ashlaren Caipiroska<br />
 						Mama: Dolce Vita Imperium Star<br />
-						Vzreditelj: Paulina Wa≥kowska (psarna Imperium Star)
+						Vzreditelj: Paulina Wa≈Çkowska (psarna Imperium Star)
 						</p>
 						
 					</div>
@@ -54,29 +54,29 @@
 					</div>
 					<div id="about_info">
 					
-					<h2>ZDRAVJE</h2>HD A/A (Brez znakov kolËne displazije)<br /><br />
-					<h2>DELO</h2>Vaje posluönosti1 (VP1): 77/100<br />Vaje posluönosti2 (VP2): 100/100<br />äiröa poljska preizkuönja (äPP): 172/212 3.n.r. (z maksimalnim ötevilom toËk za poljsko delo)<br /><br />
+					<h2>ZDRAVJE</h2>HD A/A (Brez znakov kolƒçne displazije)<br /><br />
+					<h2>DELO</h2>Vaje poslu≈°nosti1 (VP1): 77/100<br />Vaje poslu≈°nosti2 (VP2): 100/100<br />≈†ir≈°a poljska preizku≈°nja (≈†PP): 172/212 3.n.r. (z maksimalnim ≈°tevilom toƒçk za poljsko delo)<br /><br />
 					<h2>RAZSTAVE</h2> 
-						<ul ><li class="event">CAC Rovinj 2007 (Hrvaöka): 
-								<ul><li>Najlepöi najmlajöi predstavnik pasme</li></ul>
+						<ul ><li class="event">CAC Rovinj 2007 (Hrva≈°ka): 
+								<ul><li>Najlep≈°i najmlaj≈°i predstavnik pasme</li></ul>
 							</li>
-							<li class="event">CAC PtiËarjev 2007 (Slovenija): 
-								<ul><li>Najlepöi najmlajöi predstavnik pasme</li><li>BIS Najmlajöi (Najlepöi najmlajöi pes)</li></ul>
+							<li class="event">CAC Ptiƒçarjev 2007 (Slovenija): 
+								<ul><li>Najlep≈°i najmlaj≈°i predstavnik pasme</li><li>BIS Najmlaj≈°i (Najlep≈°i najmlaj≈°i pes)</li></ul>
 							</li>
 							<li class="event">CAC Trbovlje 2007 (Slovenija):  
 								<ul><li>Prvak razreda mladih (PRM)</li></ul>
 							</li>
-							<li class="event">CACIB Umag 2007 (Hrvaöka): 
-								<ul><li>odliËno2 ñ razred Mladih</li></ul>
+							<li class="event">CACIB Umag 2007 (Hrva≈°ka): 
+								<ul><li>odliƒçno2 ‚Äì razred Mladih</li></ul>
 							</li>
 							<li class="event">CACIB Lendava 2007 (Slovenia): 
-								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li><li>BOB (Prvak pasme)</li><li>Junior BOG1 (Najlepöi mladi pes 7. skupine)</li></ul>
+								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li><li>BOB (Prvak pasme)</li><li>Junior BOG1 (Najlep≈°i mladi pes 7. skupine)</li></ul>
 							</li>
 							<li class="event">CACIB Ljubljana 2008 (Slovenija):  
 								<ul><li>Prvak razreda mladih (PRM) </li><li>Junior BOB </li><li>Kika je postala Mladinski Prvak Slovenije v lepoti!</li></ul>
 							</li>
 							<li class="event">CACIB Tromostovje 2008 (Slovenija):
-								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li><li>BOB (Prvak pasme) </li><li>BOG1 (Najlepöi pes 7. FCI skupine)</li></ul>
+								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li><li>BOB (Prvak pasme) </li><li>BOG1 (Najlep≈°i pes 7. FCI skupine)</li></ul>
 							</li>
 							<li class="event">CAC Celje 2008 (Slovenija):  
 								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li></ul>
@@ -84,10 +84,10 @@
 							<li class="event">CACIB Celje 2008 (Slovenija):  
 								<ul><li>CAC</li><li>r.CACIB.</li></ul>
 							</li>
-							<li class="event">CAC Dugo Selo 2008 (Hrvaöka):  
-								<ul><li>CAC</li><li>BOB (Prvak pasme)</li><li>BOG2 (Drugi najlepöi ptiËar razstave)</li></ul>
+							<li class="event">CAC Dugo Selo 2008 (Hrva≈°ka):  
+								<ul><li>CAC</li><li>BOB (Prvak pasme)</li><li>BOG2 (Drugi najlep≈°i ptiƒçar razstave)</li></ul>
 							</li>
-							<li class="event">Cac PtiËarjev 2008:  
+							<li class="event">Cac Ptiƒçarjev 2008:  
 								<ul><li>CAC</li><li>Klubski Prvak </li><li>BOB (Prvak pasme)</li></ul>
 							</li>
 
@@ -114,6 +114,6 @@
 </body>
 </html>
 <!-- www.000webhost.com Analytics Code -->
-<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
-<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<script type="text/javascript" src="http://analytics.hosting24.com/count.html"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.html" alt="web hosting" /></a></noscript>
 <!-- End Of Analytics Code -->
