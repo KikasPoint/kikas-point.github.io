@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=Windows-1250" />
+    <meta http-equiv="Content-Language" content="si" />
+    <title>Kika's point | Kika's Point</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/about_kika.css" />
+    <style type="text/css">
+    body {
+        background-color: #c9c8b5;
+    }
+    </style>
+</head>
+
+<body>
+	<div id="main">
+    	<div id="header">
+        	<div id="header_photo"><img src="../images/head/head_05.png" alt=""/></div>
+            <div id="header_logo">
+            	<div id="header_lang">
+                	<a href="../si/point.php">slovensko</a> | 
+                    <a>english</a>
+                </div>
+				<a href="../index.php"><div id="header_link"></div></a>
+            </div>
+            <div id="header_menu">
+				<a href="../main.php?lang=en"><li>News</li></a>
+				<li><h1>Kika's Point</h1></li>
+				<a href="kika.php"><li>About Kika</li></a>
+				<a href="puppies.php"><li>Puppies</li></a>
+				<a href="../gallery.php?lang=en"><li>Gallery</li></a>
+                <a href="links.php"><li>Links</li></a>
+                <a href="../contact.php?lang=en"><li>Contact</li></a>
+            </div>
+        </div>
+        <div id="content">
+        	<div id="content_left">
+			
+			</div>
+            <div id="content_right">
+            	<div id="about">
+					
+					<div id="about_info">
+					<p>Kika's Point Weimaraners. The name of our kennel is dedicated to Kika – our first weimaraner, our first dog ever and the reason (the point) this kennel was established. We wanted to emphasize that weimaraner is a hunting dog which belongs to the group of pointing dogs, whose main characteristic is its natural ability to point, and that's how the name Kika's Point was born!</p>
+
+
+<p>Form follows function. We aim to breed a versatile weimaraner which could excel in performance as well as in conformation events. Weimaraner's conformation should give the dog  the athletic ability to hunt in the fields. Therefore we always have to consider the dog's conformation as well as the his hunting instincts, since these two should go hand in hand. In our breeding programme we'll only use dogs with good hunting abilities, of good health (free of hips displasia), with balanced charatcer/temperament and excellent conformation.</p>
+
+
+<p>We'll give away our puppies only to selected homes which will support our breeding philosophy and will be ready to contribute to our breeding plans by letting us test their dog's hunting instincts, temperament and conformation throughout their development. It's extremly important for us that we're able to follow the progress of  Kika's Point's dogs, beacuse that's the only way we can make quality breeding plans for the future.</p>
+
+
+<p>Future owners must take into consideration that weimaraner is quite a difficult breed to train due to its strong-willed character. For this reason we provide our future puppy owners with the support they might need in making their puppy a pleasureable addition to their everyday lives.</p>
+
+
+<p>We hope you'll enjoy our website and if you have any questions, please don't hesitate to contact us!</p>
+
+
+
+					</div>
+					
+
+
+
+
+					
+                 </div>
+            
+            
+            
+            </div>
+            <div class="clear"></div>    
+        </div>
+		<div id="photo_bottom">
+			<img src="../images/long_03.png" alt=""/>
+		</div>	
+        <div id="end">Copyright&copy;2009 Kika's Point Weimaraners</div>
+    	
+    </div>
+</body>
+</html>
+<!-- www.000webhost.com Analytics Code -->
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<!-- End Of Analytics Code -->

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=Windows-1250" />
+    <meta http-equiv="Content-Language" content="si" />
+    <title>Kika's point | O Kiki</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/about_kika.css" />
+    <style type="text/css">
+    body {
+        background-color: #c9c8b5;
+    }
+    </style>
+</head>
+
+<body>
+	<div id="main">
+    	<div id="header">
+        	<div id="header_photo"><img src="../images/head/head_11.png" alt=""/></div>
+            <div id="header_logo">
+            	<div id="header_lang">
+                	<a>slovensko</a> | 
+                    <a href="../en/kika.php">english</a>
+                </div>
+				<a href="../index.php"><div id="header_link"></div></a>
+            </div>
+            <div id="header_menu">
+            	<a href="../main.php"><li>Novice</li></a>
+				<a href="point.php"><li>Kika's Point</li></a>
+				<li><h1>O Kiki</h1></li>
+				<a href="puppies.php"><li>Mladiči</li></a>
+				<a href="../gallery.php"><li>Galerija</li></a>
+                <a href="links.php"><li>Povezave</li></a>
+                <a href="../contact.php"><li>Kontakt</li></a>
+            </div>
+        </div>
+        <div id="content">
+        	<div id="content_left"></div>
+            <div id="content_right">
+            	<div id="about">
+					<div id="about_imp">
+	                	<p><h1>CHJ SLO Kika Aruba Imperium Star</h1><br />
+						Poležena: 19.9.2006<br />
+						Oče: BIS Multi International Ch/ Aust Ch Ashlaren Caipiroska<br />
+						Mama: Dolce Vita Imperium Star<br />
+						Vzreditelj: Paulina Wałkowska (psarna Imperium Star)
+						</p>
+						
+					</div>
+					<div id="about_photos">
+						<div class="photo"><img src="../images/about/About_Kika02.png" alt="photo of kika n.1"/></div>
+						<div class="photo"><img src="../images/about/About_Kika01.png" alt="photo of kika n.2"/></div>
+					</div>
+					<div id="about_info">
+					
+					<h2>ZDRAVJE</h2>HD A/A (Brez znakov kolčne displazije)<br /><br />
+					<h2>DELO</h2>Vaje poslušnosti1 (VP1): 77/100<br />Vaje poslušnosti2 (VP2): 100/100<br />Širša poljska preizkušnja (ŠPP): 172/212 3.n.r. (z maksimalnim številom točk za poljsko delo)<br /><br />
+					<h2>RAZSTAVE</h2> 
+						<ul ><li class="event">CAC Rovinj 2007 (Hrvaška): 
+								<ul><li>Najlepši najmlajši predstavnik pasme</li></ul>
+							</li>
+							<li class="event">CAC Ptičarjev 2007 (Slovenija): 
+								<ul><li>Najlepši najmlajši predstavnik pasme</li><li>BIS Najmlajši (Najlepši najmlajši pes)</li></ul>
+							</li>
+							<li class="event">CAC Trbovlje 2007 (Slovenija):  
+								<ul><li>Prvak razreda mladih (PRM)</li></ul>
+							</li>
+							<li class="event">CACIB Umag 2007 (Hrvaška): 
+								<ul><li>odlično2 – razred Mladih</li></ul>
+							</li>
+							<li class="event">CACIB Lendava 2007 (Slovenia): 
+								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li><li>BOB (Prvak pasme)</li><li>Junior BOG1 (Najlepši mladi pes 7. skupine)</li></ul>
+							</li>
+							<li class="event">CACIB Ljubljana 2008 (Slovenija):  
+								<ul><li>Prvak razreda mladih (PRM) </li><li>Junior BOB </li><li>Kika je postala Mladinski Prvak Slovenije v lepoti!</li></ul>
+							</li>
+							<li class="event">CACIB Tromostovje 2008 (Slovenija):
+								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li><li>BOB (Prvak pasme) </li><li>BOG1 (Najlepši pes 7. FCI skupine)</li></ul>
+							</li>
+							<li class="event">CAC Celje 2008 (Slovenija):  
+								<ul><li>Prvak razreda mladih (PRM)</li><li>Junior BOB</li></ul>
+							</li>
+							<li class="event">CACIB Celje 2008 (Slovenija):  
+								<ul><li>CAC</li><li>r.CACIB.</li></ul>
+							</li>
+							<li class="event">CAC Dugo Selo 2008 (Hrvaška):  
+								<ul><li>CAC</li><li>BOB (Prvak pasme)</li><li>BOG2 (Drugi najlepši ptičar razstave)</li></ul>
+							</li>
+							<li class="event">Cac Ptičarjev 2008:  
+								<ul><li>CAC</li><li>Klubski Prvak </li><li>BOB (Prvak pasme)</li></ul>
+							</li>
+
+						</ul>
+					<br />
+					
+					<h3>RODOVNIK</h3><h4>(Klikni na sliko za pdf verzijo)</h4>
+					
+					</div>
+				</div>
+            
+            
+            
+            </div>
+            <div class="clear"></div>    
+        </div>
+		<div id="photo_bottom">
+			<a href="../files/rodovnik_k.pdf" target="blanck"><img src="../images/about/rodovnik_kika.png" alt="rodovnik"/></a>
+					
+		</div>
+        <div id="end">Copyright&copy;2009 Kika's Point Weimaraners</div>
+    
+    </div>
+</body>
+</html>
+<!-- www.000webhost.com Analytics Code -->
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<!-- End Of Analytics Code -->

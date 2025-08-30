@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=Windows-1250" />
+    <meta http-equiv="Content-Language" content="si" />
+    <title>Kika's point</title>
+	<meta name="keywords" content="Kika's Point, Kika's Point Weimaraners, weimaranec, weimaraner, weimaraners, weimarski ptičar, vajmarski ptičar, vzreja weimarancev, breeding weimaraners">
+    
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" type="text/css" href="css/style_ie6.css" />
+	<![endif]-->
+    <link rel="stylesheet" type="text/css" href="css/news.css" />
+	<link  href="css/fbox.css"  rel="stylesheet" type="text/css"  />
+<script type="text/javascript" src="js/fbox_conf.js"></script>
+<script type="text/javascript" src="js/fbox_engine1.js"></script>
+    <style type="text/css">
+    body {
+        background-color: #c9c8b5;
+    }
+    </style>
+</head>
+
+<body>
+	<div id="main">
+    	<div id="header">
+        	<div id="header_photo"><img src="images/head/head_01.png" alt=""/></div>
+           <div id="header_logo">
+            	<div id="header_lang">
+                	<a href="main.php">slovensko</a> | 
+                    <a href="main.php?lang=en">english</a>
+                </div>
+				 <a href="index.php"><div id="header_link"></div></a>
+            </div>
+            <div id="header_menu">
+				<ul>
+	            	<li><h1>News</h1> </li>
+					<a href="en/point.php"><li>Kika's Point</li></a>
+	                <a href="en/kika.php"><li>About Kika</li></a>
+					<a href="en/puppies.php"><li>Puppies</li></a>
+					<a href="gallery.php?lang=en"><li>Gallery</li></a>
+					<a href="en/links.php"><li>Links</li></a>
+	                <a href="contact.php?lang=en"><li>Contact</li></a>
+				</ul>
+            </div>
+        </div>
+        <div id="content">
+        	<div id="content_left"></div>
+            <div id="content_right">
+				<div id="about">
+	            	<div id="content_news">
+	                	<div class="single_news"><h2>13.08.2011</h2><h1>Puppies 2012</h1><div class="text">Next litter at Kika's Point Weimaraners is planned for year 2012. If you're interested in Kika's Point puppy, please feel free to contact us on our email kikas.point@gmail.com or via mobilephone 0038631249425.<br />
+We'll give away our puppies only to selected homes - to responsible and active owners. On our waiting list we give priority to those who are ready to participate with their grey pups in sport or hunting activities and/or dog shows.<br />
+Want to know why are we giving our pups only to active homes? Check the video of Kika's first litter and you'll get it;-)<br />
+<br />
+<br />
+
+
+
+<iframe width="560" height="349" src="http://www.youtube-nocookie.com/embed/lRsfgKQTxWE" frameborder="0" allowfullscreen></iframe><br />
+<br />
+</div></div><div class="single_news"><h2>25.07.2011</h2><h1>World Dog Show Paris 2011</h1><div class="text">From 7th of July till 10th of July there was a World Dog Show held in Paris. For the first time we have entered Kika on such a big show and also her hendler (myself:-)) was a pure beginner on such a big dog event. And Kika gained a great result!<br />
+The first day<strong> Kika Aruba Imperium Star was placed 2nd in strong Working Class</strong>
+ on the <em>French Champion Show</em>. First in Working Class was Leeloo who is a beautiful bitch and I'm honoured judge Mr. KLIBENSTEIN Horst (D) had quite some difficulities to choose between beautiful Leeloo and Kika:-) I think we ran a mile or so.<br /><br />
+
+The second day on the <em>World Dog Show 2011</em> our <strong>Kika Aruba Imperium Star came 3rd in strong Working Class</strong>
+ under judge Mr. BERCHTOLD Peter Friedrich. Kika was placed after Leeloo who is now double World Winner (in 2009 and in 2011) and Laila (both from Fala Lovea team). Kika had a really bad presentation of the movement part in the ring on this day (jumping, pulling, sniffin' the floor...:-)) so I was quite suprised when we were placed.<br />
+Would like to thank to everybody on nice words about our Kika.
+It was nice to meet you all! And there were sooo many people left who I didn't get a chance to talk to - I hope next time!<br />
+
+
+
+<br />
+<br />
+<a href="gallery/News/WDS11/wds1b.jpg"><span class="frontbox" title="Kika Aruba Imperium Star in movement"></span><img src="gallery/News/WDS11/wds1.jpg" alt="" /></a><a href="gallery/News/WDS11/wds2b.jpg"><span class="frontbox" title="Kika Aruba Imperium Star in movement"></span><img src="gallery/News/WDS11/wds2.jpg" alt="" /></a><a href="gallery/News/WDS11/wds3b.jpg"><span class="frontbox" title="Kika Aruba Imperium Star stacked on the World Dog Show"></span><img src="gallery/News/WDS11/wds3.jpg" alt="" /></a><a href="gallery/News/WDS11/wds4b.jpg"><span class="frontbox" title="Notre Dame"></span><img src="gallery/News/WDS11/wds4.jpg" alt="" /></a><a href="gallery/News/WDS11/wds5b.jpg"><span class="frontbox" title="Kika came 2nd after double World Winer Leeloo"></span><img src="gallery/News/WDS11/wds5.jpg" alt="" /></a><a href="gallery/News/WDS11/wds6b.jpg"><span class="frontbox" title="Kika"></span><img src="gallery/News/WDS11/wds6.jpg" alt="" /></a><a href="gallery/News/WDS11/wds7b.jpg"><span class="frontbox" title="Kika came 2nd in Working Class on the French Championnat Show"></span><img src="gallery/News/WDS11/wds7.jpg" alt="" /></a><a href="gallery/News/WDS11/wds8b.jpg"><span class="frontbox" title="Paris"></span><img src="gallery/News/WDS11/wds8.jpg" alt="" /></a>
+</div></div><div class="single_news"><h2>01.12.2010</h2><h1>All puppies are now reserved</h1><div class="text">All Kika's puppies from our first litter are already reserved.<br /><br />
+
+If you're interested in Kika's Point puppy, please feel free to contact us. We're already taking reservations for our next litter that is planned for the end of year 2011.
+<br />
+<br />
+
+<img src="gallery/News/mladici/rezervirani.jpg" alt="" />
+</div></div><div class="single_news"><h2>22.11.2010</h2><h1>One female puppy is still avaliable</h1><div class="text">Puppies out of Kika (CHJ SLO Kika Aruba Imperium Star, FuW) and Homer (Ch. Nani's Clay Pigeon, JH, NSD, SD) are almost 7 weeks old. One female puppy is still looking for a new home. If you're interested in this female write us on email: kikas.point@gmail.com or call us on 0038631 249 425. Only the best homes will be accepted for this girl.<br />
+<br />
+
+<img src="gallery/News/mladici/pupweb.jpg" alt="" /></div></div><div class="single_news"><h2>14.10.2010</h2><h1>Puppies one week old</h1><div class="text"><object width="560" height="340"><param name="movie" value="http://www.youtube-nocookie.com/v/KFaOQfA2vyw?fs=1&amp;hl=sl_SI"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/KFaOQfA2vyw?fs=1&amp;hl=sl_SI" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object><br />
+<br />
+<object width="560" height="340"><param name="movie" value="http://www.youtube-nocookie.com/v/P3_c13qlDjI?fs=1&amp;hl=sl_SI"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/P3_c13qlDjI?fs=1&amp;hl=sl_SI" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></div></div><div id="paginator">  1  <a href="?lang=en&page=2"> 2</a> <a href="?lang=en&page=3"> 3</a> <a href="?lang=en&page=4"> 4</a> <a href="?lang=en&page=5"> 5</a> <a href="?lang=en&page=6"> 6</a> <a href="?lang=en&page=7"> 7</a> <a href="?lang=en&page=2">Next page</a> </div>	                 </div>
+	            
+	            </div>
+            
+            </div>
+            <div class="clear"></div>    
+        </div>
+        <div id="end">Copyright &copy;2009 Kika's Point Weimaraners</div>
+    </div>
+</body>
+</html>
+<!-- Hosting24 Analytics Code -->
+<script type="text/javascript" src="http://stats.hosting24.com/count.php"></script>
+<!-- End Of Analytics Code -->

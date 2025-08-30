@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=Windows-1250" />
+    <meta http-equiv="Content-Language" content="si" />
+    <title>Kika's point | Mladici</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/about_kika.css" />
+    <style type="text/css">
+    body {
+        background-color: #c9c8b5;
+    }
+    </style>
+</head>
+
+<body>
+	<div id="main">
+    	<div id="header">
+        	<div id="header_photo"><img src="../images/head/head_02.png" alt=""/></div>
+            <div id="header_logo">
+            	<div id="header_lang">
+                	<a>slovensko</a> | 
+                    <a href="../en/puppies.php">english</a>
+                </div>
+				<a href="../index.php"><div id="header_link"></div></a>
+            </div>
+            <div id="header_menu">
+				<a href="../main.php"><li>Novice</li></a>
+				<a href="point.php"><li>Kika's Point</li></a>
+				<a href="kika.php"><li>O Kiki</li></a>
+				<li><h1>Mladiči</h1></li>
+				<a href="../gallery.php"><li>Galerija</li></a>
+                <a href="links.php"><li>Povezave</li></a>
+                <a href="../contact.php"><li>Kontakt</li></a>
+            </div>
+        </div>
+        <div id="content">
+        	<div id="content_left"></div>
+            <div id="content_right">
+            	<div id="about">
+					<div id="about_new">
+	                	<h1>V psarni Kika's Point Weimaraners sprejemamo rezervacije za naše prvo leglo, ki je načrtovano za Poletje 2010!</h1>
+						
+					</div>
+					<div id="about_imp">
+	                	
+					</div>
+					<div id="about_photos">
+						<div class="photo"><h5>Mati: CHJ SLO Kika Aruba Imperium Star<h5><img src="../images/puppies/kika.png" alt="photo of Kika Aruba Imperium Star"/></div>
+						<div class="photo"><h5>Oče: Ch. Nani's Clay Pigeon, JH, NSD<h5><img src="../images/puppies/samec.png" alt="photo of Nani's Clay Pigeon"/></div>
+					</div>
+					<div id="about_info">
+					<p>Mati načrtovanega legla bo naša Kika (CHJ SLO Kika Aruba Imperium Star), ki je psica s stabilnim karakterjem in atraktivno zunanjostjo. Kika je prišla v naš dom kot hišni ljubljenček in se je nepričkovano razvila v pravega lovskega in razstavnega psa. Več informacij o Kikinih dosežkih najdete na njeni strani.
+Oče legla bo Homer (Ch. Nani's Clay Pigeon) - lep mlad pes s skladnim telesom in stabilnim karakterjem, ki prvotno prihaja iz ZDA, sedaj pa živi skupaj z Leonor in Robertom na Nizozemskem (Meander Weimaraners). Homer je neutrudljiv plavalec z intenzivno stojo in dolgim radijem iskanja. Med kratkim obiskom ZDA (maj, 2009) je na ameriški specialki za weimarance osvojil »Award of Merit« in opravil prvega izmed štirih testov na poti do naslova »Junior Hunter« (Mlad Lovec).). Homer si je med drugim obiskom v ZDA prislužil dva delovna naslova s komplimenti sodnikov– »Junior Hunter« (Mlad Lovec) in »Novice Shooting Dog« (Pes Novinec za Delo Pred Strelom). Oba straša sta brez znakov kolčne displazije.</p>
+
+<p>Mladiči bodo skoteni in vzrejeni pri nas doma. </p>
+
+<p>V času, ko bodo mladiči pri nas, bomo natančno opazovali njihove karakterne lastnosti in naravne zasnove, saj želimo, da vsak od njih dobi kar najprimernejši dom.
+Mladiči bodo oddani le v primerne domove, od bodočih lastnikov pričakujemo, da bodo psi bivali v hiši ali stanovanju (privezovanje na verigo ne pride v poštev!)</p>
+
+ <p>Naš cilj je vzreja vsestranskega weimaranca zato bomo dali prednost ljudem, ki bodo s svojim weimarancem pripravljeni delati (lov, reševanje, agility ali katero od drugih področij športne kinologije) in/ali ga razstavljati. Ne pozabite, da je weimaranec lovski pes in tudi če niste lovec Vam zagotavljamo, da Vam bodo lovski treningi z Vašim sivim duhcem v veliko veselje!</p>
+
+
+
+<br />
+					<h3>RODOVNIK</h3><h4> (Klikni na sliko za pdf verzijo)</h4>
+					</div>
+					
+                 </div>
+            
+            
+            
+            </div>
+            <div class="clear"></div>    
+        </div>
+		<div id="photo_bottom">
+			<a href="../files/rodovnik_p.pdf" target="blanck"><img src="../images/puppies/rodovnik_puppies.png" alt="rodovnik"/></a>
+					
+		</div>
+        <div id="end">Copyright&copy;2009 Kika's Point Weimaraners</div>
+    
+    </div>
+</body>
+</html>
+<!-- www.000webhost.com Analytics Code -->
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<!-- End Of Analytics Code -->

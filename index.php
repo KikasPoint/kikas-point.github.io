@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+<meta name="verify-v1" content="EsNo7mUOsckD4ObmwGZQYhwdLKV55v8OnyKVhBbKCK8=" />
+<meta name="keywords" content="Kika's Point, Kika's Point Weimaraners, weimaranec, weimaraner, weimaraners, weimarski ptičar, vajmarski ptičar, vzreja weimarancev, breeding weimaraners">
+<title>Kika's point</title>
+
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+
+<style type="text/css">
+body {
+	background-color: #81806f;
+}
+</style>
+
+</head>
+
+<body>
+<TABLE border=0 width="100%" height="100%" background="#ss"><TR><TD align="center" valign="center">
+<div id="main">
+		    	<div id="top"></div>
+		        <div id="middle"></div>
+		        <div id="bottom">
+		        	<a href="main.php">VSTOP</a> |  <a href="main.php?lang=en">ENTER</a>
+		            <br />
+		            <div id="b_copy"><h2>Copyright &copy;2009 Kika's Point Weimaraners</h2></div>
+					<!-- START OF HIT COUNTER CODE -->
+	<div id="counter"><br><script language="JavaScript" src="http://www.counter160.com/js.js?img=11"></script><br><a href="http://www.000webhost.com"><img src="http://www.counter160.com/images/11/left.png" alt="Free web hosting" border="0" align="texttop"></a><a href="http://www.hosting24.com"><img alt="Web hosting" src="http://www.counter160.com/images/11/right.png" border="0" align="texttop"></a></div>
+	<!-- END OF HIT COUNTER CODE -->
+		        </div>
+		    </div>
+</TD></TR></TABLE> 
+			
+			
+
+</body>
+</html>
+
+<!-- www.000webhost.com Analytics Code -->
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<!-- End Of Analytics Code -->

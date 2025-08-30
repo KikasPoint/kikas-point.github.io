@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=Windows-1250" />
+    <meta http-equiv="Content-Language" content="si" />
+    <title>Kika's point | Kika's point </title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/about_kika.css" />
+    <style type="text/css">
+    body {
+        background-color: #c9c8b5;
+    }
+    </style>
+</head>
+
+<body>
+	<div id="main">
+    	<div id="header">
+        	<div id="header_photo"><img src="../images/head/head_05.png" alt=""/></div>
+            <div id="header_logo">
+            	<div id="header_lang">
+                	<a>slovensko</a> | 
+                    <a href="../en/point.php">english</a>
+                </div>
+				<a href="../index.php"><div id="header_link"></div></a>
+            </div>
+            <div id="header_menu">
+				<a href="../main.php"><li>Novice</li></a>
+				<li><h1>Kika's Point</h1></li>
+				<a href="kika.php"><li>O Kiki</li></a>
+				<a href="puppies.php"><li>Mladiči</li></a>
+				<a href="../gallery.php"><li>Galerija</li></a>
+                <a href="links.php"><li>Povezave</li></a>
+                <a href="../contact.php"><li>Kontakt</li></a>
+            </div>
+        </div>
+        <div id="content">
+        	<div id="content_left"></div>
+            <div id="content_right">
+            	<div id="about">
+					
+					<div id="about_info">
+					<p>Kika's Point Weimaraners. Psarna je dobila ime po Kiki - naši prvi weimaranki in razlogu za ustanovitev psarne. Poudariti želimo, da je weimaranec lovski pes, ki spada v skupino ptičarjev, katerih glavna naravna zasnova je stoja na divjad (angleško point). Tako je nastalo ime Kika's Point!</p>
+<p>
+Form follows function (forma sledi funkciji). Cilj je vzreja vsestranskega weimaranca, ki bo primeren tako za delo kot za razstave. Že sama telesna zgradba weimaranca omogoča psu hitro in večurno iskanje divjadi na polju. Lovska sposobnost psa in njegova telesna zgradba gresta torej z roko v roki, tako da je potrebno vedno upoštevati oboje. V naši vzreji bomo uporabili le pse z dobrimi naravnimi (lovskimi) zasnovami, brez zdravstvenih težav (brez znakov kolčne displazije), s stabilinim karakterjem in z odlično zunanjostjo.</p>
+<p>
+Naše mladiče bomo oddali le v izbrane domove oziroma ljudem, ki bodo podpirali filozofijo naše vzreje in bodo pripravljeni prispevati k ciljem vzreje, tako da nam bodo dali možnost testiranja lovskih nagonov, temperamenta in zunanjosti skozi razvoj njihovih psov. Za nas je izrednega pomena, da lahko spremljamo napredek psov naše vzreje, saj nam to omogoča načrtovanje kvalitetnih paritvenih kombinacij.</p>
+<p>
+Bodoči lastniki se morajo zavedati, da sta vzgoja in šolanje weimaranca zaradi njegovega dominantnega karakterja in trme zahtevna. Zato bomo bodočim lastnikom naših mladičev nudili pomoč pri osnovni vzgoji in šolanju. </p>
+<p>
+Želimo Vam prijeten obisk naše spletne strani. Veseli bomo Vaših vprašanj!</p>
+
+
+
+					</div>
+				 </div>
+            
+            
+            
+            </div>
+            <div class="clear"></div> 
+        </div>
+		<div id="photo_bottom">
+			<img src="../images/long_03.png" alt=""/>
+		</div>	
+        <div id="end">Copyright&copy;2009 Kika's Point Weimaraners</div>
+    
+    </div>
+	
+</body>
+</html>
+<!-- www.000webhost.com Analytics Code -->
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<!-- End Of Analytics Code -->

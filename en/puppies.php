@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=Windows-1250" />
+    <meta http-equiv="Content-Language" content="si" />
+    <title>Kika's point | Puppies</title>
+    
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/about_kika.css" />
+    <style type="text/css">
+    body {
+        background-color: #c9c8b5;
+    }
+    </style>
+</head>
+
+<body>
+	<div id="main">
+    	<div id="header">
+        	<div id="header_photo"><img src="../images/head/head_02.png" alt=""/></div>
+            <div id="header_logo">
+            	<div id="header_lang">
+                	<a href="../si/puppies.php">slovensko</a> | 
+                    <a>english</a>
+                </div>
+				<a href="../index.php"><div id="header_link"></div></a>
+            </div>
+            <div id="header_menu">
+				<a href="../main.php?lang=en"><li>News</li></a>
+				<a href="point.php"><li>Kika's Point</li></a>
+				<a href="kika.php"><li>About Kika</li></a>
+				<li><h1>Puppies</h1></li>
+				<a href="../gallery.php?lang=en"><li>Gallery</li></a>
+                <a href="links.php"><li>Links</li></a>
+                <a href="../contact.php?lang=en"><li>Contact</li></a>
+            </div>
+        </div>
+        <div id="content">
+        	<div id="content_left"></div>
+            <div id="content_right">
+            	<div id="about">
+					<div id="about_new">
+	                	<h1>First litter at Kika's Point Weimaraners is planned for Summer of 2010! We're already taking reservations so feel free to contact us!</h1>
+						
+					</div>
+					<div id="about_imp">
+						
+					</div>
+					<div id="about_photos">
+						<div class="photo"><h5>Dam: CHJ SLO Kika Aruba Imperium Star<h5><img src="../images/puppies/kika.png" alt="photo of Kika Aruba Imperium Star"/></div>
+						<div class="photo"><h5>Sire: Ch. Nani's Clay Pigeon, JH, NSD<h5><img src="../images/puppies/samec.png" alt="photo of Nani's Clay Pigeon"/></div>
+					</div>
+					<div id="about_info">
+					<p>Dam of the litter will be our Kika (CHJ SLO Kika Aruba Imperium Star). Kika is a sweet bitch with great character and beautiful conformation. We brought Kika to our home as a pet, but then she has developed into a real show and hunting dog. Details about Kika's achievements are listed on her page.
+Sire of the litter will be Homer (Ch. Nani's Clay Pigeon). Homer is a beautiful young dog imported from the USA but now living in the Netherlands with Leonor and Robert (Meander Weimaraners). Beside his beautiful conformation and sweet character he is a  tireless swimmer, has stylish point and wide field searching. On his short visit back to his homeland he earned Award of Merit at WCA National Specialty 2009 and passed first leg for Junior Hunter title. Homer's second trip to the USA was a huge success – he has finished a Junior Hunter (JH) title with compliments from the judge and has earned a Novice Shooting Dog title (NSD). Homer's JH title was earned by passing all seven legs that he has entered. Both parents are free of hips displasia.</p>
+ 
+<p>Puppies will be whelped and raised in our home. </p>
+
+<p>Our aim is to place puppies in homes that will suit their temperament and intstincts, therefore we'll observe each puppy carefully as an individual during her/his stay with us. 
+We'll give our puppies only to suitable homes and please take into consideration that we expect our puppies to live indoors (chaining is not an option!).</p>
+
+<p>Since our goal is to breed a versatile weimaraner we'll prioritise people who will be ready to work (hunting, rescue, agility or any other dog sport) and/or show their weimaraners. Don't forget that weimaraner is a hunting dog and even if you're not a hunter yourself we guarantee you that you'll surely enjoy hunting trainings with your grey ghost!</p>
+
+<br />
+					<h3>PEDIGREE</h3><h4> (Click on the photo for pdf version)</h4>
+					</div>
+				 </div>
+            
+            </div>
+            <div class="clear"></div>    
+        </div>
+		<div id="photo_bottom">
+			<a href="../files/rodovnik_p.pdf" target="blanck"><img src="../images/puppies/rodovnik_puppies.png" alt="rodovnik"/></a>
+					
+		</div>
+        <div id="end">Copyright&copy;2009 Kika's Point Weimaraners</div>
+    
+    </div>
+</body>
+</html>
+<!-- www.000webhost.com Analytics Code -->
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
+<!-- End Of Analytics Code -->
