@@ -1,0 +1,220 @@
+/*css main za Kika's point
+Klemen Isteniè */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	font-family: Verdana,"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #5d5d5d;
+}
+body{
+	height: 100%;
+}
+
+#main{
+	position: relative;
+	width: 900px;
+	margin: 0px auto 0 auto;
+}
+
+#counter{
+	display: none;
+}
+/*---------------------enter.php------------------*/
+#top {
+}
+
+#middle{
+	height: 313px;
+	background: url(/web/20131008221555im_/http://kikas-point.si/images/main_02.png) no-repeat 0px 0px;
+	border: none;
+}
+
+#bottom{
+	height: 50px;
+	width: 300px;
+	margin-top: 30px;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:12px;
+	text-align: center;
+}
+
+#bottom h2{
+	font-size:9px;
+	text-align: center;
+	font-weight: normal;
+	font-family: Verdana;
+	color: #ffffff;
+
+}
+#bottom a{
+	font-weight: bold;
+	text-decoration: none;
+	color:#ffffff;
+}
+#b_copy{
+	float:left;
+	margin-top: 40px;
+	width: 300px;
+
+}
+
+/*---------------------main.php------------------*/
+#header{
+	height: 138px;
+	background-color: #81806f;
+}
+#header_photo{
+	display: inline;
+	float: left;
+	width: 271px;
+	height: 100%;
+}
+#header_logo{
+	display: inline;
+	float: left;
+	width: 629px;
+	height: 81%;
+	background: url(/web/20131008221555im_/http://kikas-point.si/images/logo.png) no-repeat 308px 30px ;
+}
+#header_lang{
+	float: right;
+	margin-top: 5px;
+	margin-right: 30px;
+	font-size: 10px;
+	
+}
+#header_link{
+	height: 60px;
+	width: 290px;
+	position: absolute;
+	right: 30px;
+	top: 30px;
+	background: none;
+
+
+}
+#header_lang a {
+	text-decoration: none;
+	border: none;
+	color: #ffffff;
+	cursor: hand;
+}
+#header_menu{
+	width: 629px;
+	height: 19%;
+	float: left;
+}
+
+#header_menu li{
+	display: inline;
+	float: left;
+	margin: 0 auto;
+	width: 14%;
+	height: 100%;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 29px;
+	cursor: hand;
+	
+
+}
+#header_menu a {
+	text-decoration: none;
+	border: none;
+	color: white;
+}
+#header_menu h1 {
+	text-align: center;
+	vertical-align: middle;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 29px;
+	color: #474746;/*c9c8b5*/
+}
+
+#content{
+	background-color: white;
+}
+
+#content_left{
+	background: url(/web/20131008221555im_/http://kikas-point.si/images/phrase.png) no-repeat 10px 10px;
+	background-color: white;
+	min-height: 48px;
+	width: 241px;
+	float:left;
+	background-color: #fff;
+}
+
+#content_right{
+	width: 658px;
+	float:left;
+	display: inline;
+	padding-top: 31px;
+	padding-bottom: 21px;
+	background-color: #fff;
+}
+.clear:after {
+ content:".";
+ display:block;
+ height:0;
+ clear:both;
+ width: 900px;
+ }
+
+
+
+#photo_bottom{
+	background: #fff;
+	margin-bottom: -2px;
+
+}
+
+#photo_bottom a img{
+	border: none;
+	text-decoration: none;
+	padding-bottom: 5px;
+
+}
+#end{
+	float: left;
+	padding-top: 5px;
+	padding-left: 241px;
+	height: 20px;
+	background-color: #81806f;
+	width: 659px;
+	font-size:9px;
+	color: #ffffff;
+	font-weight: normal;
+	margin-top: 0px;
+	
+}
+/*
+     FILE ARCHIVED ON 22:15:55 Oct 08, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:10:07 Aug 30, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.718
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.013
+  esindex: 0.015
+  cdx.remote: 8.779
+  LoadShardBlock: 159.454 (3)
+  PetaboxLoader3.datanode: 158.194 (4)
+  load_resource: 208.019
+  PetaboxLoader3.resolve: 156.167
+*/
