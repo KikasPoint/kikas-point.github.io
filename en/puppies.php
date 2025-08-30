@@ -20,19 +20,19 @@
         	<div id="header_photo"><img src="../images/head/head_02.png" alt=""/></div>
             <div id="header_logo">
             	<div id="header_lang">
-                	<a href="../si/puppies.html">slovensko</a> | 
+                	<a href="../si/puppies.php">slovensko</a> | 
                     <a>english</a>
                 </div>
-				<a href="../index.html"><div id="header_link"></div></a>
+				<a href="../index.php"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
-				<a href="../main.html?lang=en"><li>News</li></a>
-				<a href="point.html"><li>Kika's Point</li></a>
-				<a href="kika.html"><li>About Kika</li></a>
+				<a href="../main.php?lang=en"><li>News</li></a>
+				<a href="point.php"><li>Kika's Point</li></a>
+				<a href="kika.php"><li>About Kika</li></a>
 				<li><h1>Puppies</h1></li>
-				<a href="../gallery.html?lang=en"><li>Gallery</li></a>
-                <a href="links.html"><li>Links</li></a>
-                <a href="../contact.html?lang=en"><li>Contact</li></a>
+				<a href="../gallery.php?lang=en"><li>Gallery</li></a>
+                <a href="links.php"><li>Links</li></a>
+                <a href="../contact.php?lang=en"><li>Contact</li></a>
             </div>
         </div>
         <div id="content">
@@ -79,6 +79,6 @@ We'll give our puppies only to suitable homes and please take into consideration
 </body>
 </html>
 <!-- www.000webhost.com Analytics Code -->
-<script type="text/javascript" src="http://analytics.hosting24.com/count.html"></script>
-<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.html" alt="web hosting" /></a></noscript>
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
 <!-- End Of Analytics Code -->

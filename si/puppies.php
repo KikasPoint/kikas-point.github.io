@@ -21,18 +21,18 @@
             <div id="header_logo">
             	<div id="header_lang">
                 	<a>slovensko</a> | 
-                    <a href="../en/puppies.html">english</a>
+                    <a href="../en/puppies.php">english</a>
                 </div>
-				<a href="../index.html"><div id="header_link"></div></a>
+				<a href="../index.php"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
-				<a href="../main.html"><li>Novice</li></a>
-				<a href="point.html"><li>Kika's Point</li></a>
-				<a href="kika.html"><li>O Kiki</li></a>
+				<a href="../main.php"><li>Novice</li></a>
+				<a href="point.php"><li>Kika's Point</li></a>
+				<a href="kika.php"><li>O Kiki</li></a>
 				<li><h1>Mladièi</h1></li>
-				<a href="../gallery.html"><li>Galerija</li></a>
-                <a href="links.html"><li>Povezave</li></a>
-                <a href="../contact.html"><li>Kontakt</li></a>
+				<a href="../gallery.php"><li>Galerija</li></a>
+                <a href="links.php"><li>Povezave</li></a>
+                <a href="../contact.php"><li>Kontakt</li></a>
             </div>
         </div>
         <div id="content">
@@ -84,6 +84,6 @@ Mladièi bodo oddani le v primerne domove, od bodoèih lastnikov prièakujemo, da b
 </body>
 </html>
 <!-- www.000webhost.com Analytics Code -->
-<script type="text/javascript" src="http://analytics.hosting24.com/count.html"></script>
-<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.html" alt="web hosting" /></a></noscript>
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
 <!-- End Of Analytics Code -->

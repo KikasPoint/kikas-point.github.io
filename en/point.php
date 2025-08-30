@@ -20,19 +20,19 @@
         	<div id="header_photo"><img src="../images/head/head_05.png" alt=""/></div>
             <div id="header_logo">
             	<div id="header_lang">
-                	<a href="../si/point.html">slovensko</a> | 
+                	<a href="../si/point.php">slovensko</a> | 
                     <a>english</a>
                 </div>
-				<a href="../index.html"><div id="header_link"></div></a>
+				<a href="../index.php"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
-				<a href="../main.html?lang=en"><li>News</li></a>
+				<a href="../main.php?lang=en"><li>News</li></a>
 				<li><h1>Kika's Point</h1></li>
-				<a href="kika.html"><li>About Kika</li></a>
-				<a href="puppies.html"><li>Puppies</li></a>
-				<a href="../gallery.html?lang=en"><li>Gallery</li></a>
-                <a href="links.html"><li>Links</li></a>
-                <a href="../contact.html?lang=en"><li>Contact</li></a>
+				<a href="kika.php"><li>About Kika</li></a>
+				<a href="puppies.php"><li>Puppies</li></a>
+				<a href="../gallery.php?lang=en"><li>Gallery</li></a>
+                <a href="links.php"><li>Links</li></a>
+                <a href="../contact.php?lang=en"><li>Contact</li></a>
             </div>
         </div>
         <div id="content">
@@ -82,6 +82,6 @@
 </body>
 </html>
 <!-- www.000webhost.com Analytics Code -->
-<script type="text/javascript" src="http://analytics.hosting24.com/count.html"></script>
-<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.html" alt="web hosting" /></a></noscript>
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
 <!-- End Of Analytics Code -->

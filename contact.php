@@ -20,19 +20,19 @@
         	<div id="header_photo"><img src="images/head/head_10.png" alt=""/></div>
             <div id="header_logo">
             	<div id="header_lang">
-                	<a href="contact.html">slovensko</a> | 
-                    <a href="contact.html?lang=en">english</a>
+                	<a href="contact.php">slovensko</a> | 
+                    <a href="contact.php?lang=en">english</a>
                 </div>
-				<a href="index.html"><div id="header_link"></div></a>
+				<a href="index.php"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
 				
-				<a href="main.html"><li>Novice</li></a>
-				<a href="si/point.html"><li>Kika's Point</li></a>
-				<a href="si/kika.html"><li>O Kiki</li></a>
-				<a href="si/puppies.html"><li>Mladièi</li></a>
-				<a href="gallery.html"><li>Galerija</li></a>
-				<a href="si/links.html"><li>Povezave</li></a>
+				<a href="main.php"><li>Novice</li></a>
+				<a href="si/point.php"><li>Kika's Point</li></a>
+				<a href="si/kika.php"><li>O Kiki</li></a>
+				<a href="si/puppies.php"><li>Mladièi</li></a>
+				<a href="gallery.php"><li>Galerija</li></a>
+				<a href="si/links.php"><li>Povezave</li></a>
 				<li><h1>Kontakt</h1> </li>
 				
             </div>
@@ -56,7 +56,7 @@
 					
 					
 					
-						<form name="frmFormMail" action="/contact.html" method='post' enctype='multipart/form-data'>
+						<form name="frmFormMail" action="/contact.php" method='post' enctype='multipart/form-data'>
 						<div class="form_row">
 							<div class="form_left">Ime:</div>
 							<div class="form_right"><input type="text" name="name"  value="" class='text_box'></div>
@@ -75,7 +75,7 @@
 						</div>
 						<div class="form_row">
 							<div class="form_left"></div>
-							<div class="form_right"><input type="hidden" name="form_submit" id="form_submit" value="True" /><input type='submit' value='Pošlji' class="button">&nbsp;&nbsp; <input type='button' value='Poèisti ' onclick="location.href='/contact.html';" class="button"></div>
+							<div class="form_right"><input type="hidden" name="form_submit" id="form_submit" value="True" /><input type='submit' value='Pošlji' class="button">&nbsp;&nbsp; <input type='button' value='Poèisti ' onclick="location.href='/contact.php';" class="button"></div>
 						</div>
 						</form>
 										</div>
@@ -100,6 +100,6 @@
 </body>
 </html>
 <!-- www.000webhost.com Analytics Code -->
-<script type="text/javascript" src="http://analytics.hosting24.com/count.html"></script>
-<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.html" alt="web hosting" /></a></noscript>
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
 <!-- End Of Analytics Code -->

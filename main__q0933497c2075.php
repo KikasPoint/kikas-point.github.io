@@ -27,20 +27,20 @@
         	<div id="header_photo"><img src="images/head/head_01.png" alt=""/></div>
            <div id="header_logo">
             	<div id="header_lang">
-                	<a href="main.html">slovensko</a> | 
-                    <a href="main.html?lang=en">english</a>
+                	<a href="main.php">slovensko</a> | 
+                    <a href="main.php?lang=en">english</a>
                 </div>
-				 <a href="index.html"><div id="header_link"></div></a>
+				 <a href="index.php"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
 				<ul>
 	            	<li><h1>News</h1> </li>
-					<a href="en/point.html"><li>Kika's Point</li></a>
-	                <a href="en/kika.html"><li>About Kika</li></a>
-					<a href="en/puppies.html"><li>Puppies</li></a>
-					<a href="gallery.html?lang=en"><li>Gallery</li></a>
-					<a href="en/links.html"><li>Links</li></a>
-	                <a href="contact.html?lang=en"><li>Contact</li></a>
+					<a href="en/point.php"><li>Kika's Point</li></a>
+	                <a href="en/kika.php"><li>About Kika</li></a>
+					<a href="en/puppies.php"><li>Puppies</li></a>
+					<a href="gallery.php?lang=en"><li>Gallery</li></a>
+					<a href="en/links.php"><li>Links</li></a>
+	                <a href="contact.php?lang=en"><li>Contact</li></a>
 				</ul>
             </div>
         </div>
@@ -97,5 +97,5 @@ If you're interested in Kika's Point puppy, please feel free to contact us. We'r
 </body>
 </html>
 <!-- Hosting24 Analytics Code -->
-<script type="text/javascript" src="http://stats.hosting24.com/count.html"></script>
+<script type="text/javascript" src="http://stats.hosting24.com/count.php"></script>
 <!-- End Of Analytics Code -->

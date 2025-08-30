@@ -31,20 +31,20 @@
         	<div id="header_photo"><img src="images/head/head_04.png" alt=""/></div>
             <div id="header_logo">
             	<div id="header_lang">
-                	<a href="gallery.html">slovensko</a> | 
-                    <a href="gallery.html?lang=en">english</a>
+                	<a href="gallery.php">slovensko</a> | 
+                    <a href="gallery.php?lang=en">english</a>
                 </div>
-				<a href="index.html"><div id="header_link"></div></a>
+				<a href="index.php"><div id="header_link"></div></a>
             </div>
             <div id="header_menu">
 				
-				<a href="main.html"><li>Novice</li></a>
-				<a href="si/point.html"><li>Kika's Point</li></a>
-				<a href="si/kika.html"><li>O Kiki</li></a>
-				<a href="si/puppies.html"><li>Mladièi</li></a>
+				<a href="main.php"><li>Novice</li></a>
+				<a href="si/point.php"><li>Kika's Point</li></a>
+				<a href="si/kika.php"><li>O Kiki</li></a>
+				<a href="si/puppies.php"><li>Mladièi</li></a>
 				<a href="?"><li><h1>Galerija</h1></li></a>
-				<a href="si/links.html"><li>Povezave</li></a>
-				<a href="contact.html"><li>Kontakt</li></a>
+				<a href="si/links.php"><li>Povezave</li></a>
+				<a href="contact.php"><li>Kontakt</li></a>
 				
             </div>
         </div>
@@ -55,7 +55,7 @@
 			</div>
             <div id="content_right">
 							<div id="thumbs">
-					<div class="single_thm"><a href="?cat=0&id=1"><img border="0" src="genthumbs.html?image=gallery/thm_alb/stojaW.jpg" /><div class="single_title" >Lov (38)</div></div></a><div class="single_thm"><a href="?cat=0&id=2"><img border="0" src="genthumbs.html?image=gallery/thm_alb/tennis5W.jpg" /><div class="single_title" >Zabava (21)</div></div></a><div class="single_thm"><a href="?cat=0&id=67"><img border="0" src="genthumbs.html?image=gallery/thm_alb/lend1.jpg" /><div class="single_title" >Razstave (16)</div></div></a><div class="single_thm"><a href="?cat=0&id=68"><img border="0" src="genthumbs.html?image=gallery/thm_alb/obe2.jpg" /><div class="single_title" >Poslušnost (15)</div></div></a><div class="single_thm"><a href="?cat=0&id=69"><img border="0" src="genthumbs.html?image=gallery/thm_alb/pup4W.jpg" /><div class="single_title" >Mladièi (10)</div></div></a><div class="single_thm"><a href="?cat=0&id=70"><img border="0" src="genthumbs.html?image=gallery/thm_alb/crazy11.jpg" /><div class="single_title" >Divje (18)</div></div></a><div class="single_thm"><a href="?cat=0&id=71"><img border="0" src="genthumbs.html?image=gallery/thm_alb/pozira12.jpg" /><div class="single_title" >Poziranje (36)</div></div></a><div class="single_thm"><a href="?cat=0&id=184"><img border="0" src="genthumbs.html?image=gallery/thm_alb/unknown.png" /><div class="single_title" >Videi (7)</div></div></a><div class="single_thm"><a href="?cat=0&id=192"><img border="0" src="genthumbs.html?image=gallery/thm_alb/wds18.jpg" /><div class="single_title" >Svetovna Razstava 2009 (28)</div></div></a>					
+					<div class="single_thm"><a href="?cat=0&id=1"><img border="0" src="genthumbs.php?image=gallery/thm_alb/stojaW.jpg" /><div class="single_title" >Lov (38)</div></div></a><div class="single_thm"><a href="?cat=0&id=2"><img border="0" src="genthumbs.php?image=gallery/thm_alb/tennis5W.jpg" /><div class="single_title" >Zabava (21)</div></div></a><div class="single_thm"><a href="?cat=0&id=67"><img border="0" src="genthumbs.php?image=gallery/thm_alb/lend1.jpg" /><div class="single_title" >Razstave (16)</div></div></a><div class="single_thm"><a href="?cat=0&id=68"><img border="0" src="genthumbs.php?image=gallery/thm_alb/obe2.jpg" /><div class="single_title" >Poslušnost (15)</div></div></a><div class="single_thm"><a href="?cat=0&id=69"><img border="0" src="genthumbs.php?image=gallery/thm_alb/pup4W.jpg" /><div class="single_title" >Mladièi (10)</div></div></a><div class="single_thm"><a href="?cat=0&id=70"><img border="0" src="genthumbs.php?image=gallery/thm_alb/crazy11.jpg" /><div class="single_title" >Divje (18)</div></div></a><div class="single_thm"><a href="?cat=0&id=71"><img border="0" src="genthumbs.php?image=gallery/thm_alb/pozira12.jpg" /><div class="single_title" >Poziranje (36)</div></div></a><div class="single_thm"><a href="?cat=0&id=184"><img border="0" src="genthumbs.php?image=gallery/thm_alb/unknown.png" /><div class="single_title" >Videi (7)</div></div></a><div class="single_thm"><a href="?cat=0&id=192"><img border="0" src="genthumbs.php?image=gallery/thm_alb/wds18.jpg" /><div class="single_title" >Svetovna Razstava 2009 (28)</div></div></a>					
 
 				</div>
             
@@ -72,6 +72,6 @@
 </body>
 </html>
 <!-- www.000webhost.com Analytics Code -->
-<script type="text/javascript" src="http://analytics.hosting24.com/count.html"></script>
-<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.html" alt="web hosting" /></a></noscript>
+<script type="text/javascript" src="http://analytics.hosting24.com/count.php"></script>
+<noscript><a href="http://www.hosting24.com/"><img src="http://analytics.hosting24.com/count.php" alt="web hosting" /></a></noscript>
 <!-- End Of Analytics Code -->
